@@ -7,5 +7,5 @@ it answers simple questions such as;
 
 "which region contributed the most sales"
 among others.
-this wwas done in my first year of university, using excel;
+this was done in my first year of university, using excel;
 hope you liked it.
